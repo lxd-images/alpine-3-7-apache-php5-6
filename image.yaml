@@ -1,0 +1,21 @@
+aliases: {  }
+architecture: x86_64
+auto_update: false
+cached: false
+created_at: '0001-01-01T00:00:00Z'
+expires_at: '0001-01-01T00:00:00Z'
+filename: ''
+fingerprint: 4d565cdcbaade7d227bb9a0c3f6800cb1a4f9878754c35955cc34de3262ba518
+last_used_at: '0001-01-01T00:00:00Z'
+properties:
+    architecture: amd64
+    build: '2018-04-04T15:21:45.472Z'
+    description: 'Alpine 3.7 (Apache, PHP5.6)'
+    distribution: ''
+    label: ''
+    os: Alpine
+    release: '3.7'
+    version: '3.7'
+public: false
+size: 13019149
+uploaded_at: '2018-04-04T15:21:50.364388095Z'

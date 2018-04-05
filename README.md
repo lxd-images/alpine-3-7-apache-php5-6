@@ -4,7 +4,7 @@
 
 ## Import & Installation
 
-- `git clone https://github.com/lcherone/alpine-3-7-apache-php5-6.git`
+- `git clone https://github.com/lxd-images/alpine-3-7-apache-php5-6.git`
 - `cd alpine-3-7-apache-php5-6`
 - `./import.sh`
 
